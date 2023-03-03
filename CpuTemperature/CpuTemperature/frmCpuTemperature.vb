@@ -7,7 +7,7 @@
 ' / More Info: http://www.g2gnet.com/webboard
 ' / 
 ' / Purpose: Monitor CPU Temperatures with BackgroundWorker.
-' / Microsoft Visual Basic .NET (2010)
+' / Microsoft Visual Basic .NET (2017) - NET Framework 4.5+
 ' /
 ' / This is open source code under @CopyLeft by Thongkorn Tubtimkrob.
 ' / You can modify and/or distribute without to inform the developer.
